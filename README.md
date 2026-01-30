@@ -59,17 +59,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfsayan&show_icons=true&locale=en&layout=compact" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfsayan&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myselfsayan&show_icons=true&locale=en" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfsayan&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsayan" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=myselfsayan&theme=tokyonight)
+
 
 ---
 
